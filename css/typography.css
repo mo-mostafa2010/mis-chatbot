@@ -69,8 +69,8 @@ textarea { padding: 10px 0 0 10px; border-radius: .25rem; }
 6 Title
 -----------------------------------------------------------------------*/
 .title-box .title { font-weight: 600; letter-spacing: 2px; position: relative; z-index: -1; }
-.title-box span { text-shadow: 0 10px 10px rgba(0, 0, 0, .15); font-weight: 800; color: #640178; }
-.title-box p {font-size: 17px; line-height: 2em; }
+.title-box span { text-shadow: 0 10px 10px rgba(0, 0, 0, .15); font-weight: 800; color: #4a4a4a; }
+.title-box p {font-size: 17px; line-height: 2em; color: #e1a371; }
 /*---------------------------------------------------------------------
 7 Button
 -----------------------------------------------------------------------*/
